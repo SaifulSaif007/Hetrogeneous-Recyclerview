@@ -22,8 +22,9 @@ public class MainActivity extends AppCompatActivity implements ComplexRecyclerAd
         ComplexRecyclerAdapter adapter = new ComplexRecyclerAdapter(getSampleArrayList(), this);
 
         int numColumns = 1;
+        GridLayoutManager gridLayoutManager;
 
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(getApplicationContext(), numColumns);
+         gridLayoutManager = new GridLayoutManager(getApplicationContext(), numColumns);
         recyclerView.setLayoutManager(gridLayoutManager);
 
 //

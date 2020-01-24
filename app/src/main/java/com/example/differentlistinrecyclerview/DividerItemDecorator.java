@@ -30,5 +30,7 @@ public class DividerItemDecorator extends RecyclerView.ItemDecoration {
 
         outRect.left = space;
         outRect.bottom = space;
+
+        outRect.set(10,10,10,10);
     }
 }
