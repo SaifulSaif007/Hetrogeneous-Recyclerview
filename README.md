@@ -8,6 +8,8 @@ Using two types of object for recycler
 
 * Used Static DataStore for generating the data
 
+* Handled item click event
+
 # Screen Shot
 
 <table>
