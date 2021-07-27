@@ -5,9 +5,9 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="17"
+8        android:minSdkVersion="21"
 8-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="29" />
+9        android:targetSdkVersion="30" />
 9-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml
 10
 11    <application
@@ -28,9 +28,9 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.differentlistinrecyclerview.MainActivity" >
+21        <activity android:name="com.saiful.differentlistinrecyclerview.view.ui.MainActivity" >
 21-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:19-47
+21-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:19-93
 22            <intent-filter>
 22-->G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:13:13-17:29
 23                <action android:name="android.intent.action.MAIN" />

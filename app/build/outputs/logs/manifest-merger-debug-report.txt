@@ -35,7 +35,7 @@ INJECTED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\Andro
 INJECTED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:3:5-54
+		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml
 		INJECTED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -72,10 +72,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Us
 		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.differentlistinrecyclerview.MainActivity
+activity#com.saiful.differentlistinrecyclerview.view.ui.MainActivity
 ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:12:19-93
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from G:\Android Projects\DifferentListinRecyclerview\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN

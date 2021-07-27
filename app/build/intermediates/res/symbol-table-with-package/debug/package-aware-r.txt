@@ -1350,6 +1350,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable image1
+drawable image2
+drawable image3
+drawable image4
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1377,7 +1381,6 @@ drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
-id Address
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
@@ -1506,7 +1509,6 @@ id ghost_view
 id gone
 id group_divider
 id groups
-id guideline
 id hideable
 id home
 id homeAsUp
@@ -1557,6 +1559,7 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
+id name
 id navigation_header_container
 id never
 id noScroll
@@ -1577,6 +1580,7 @@ id password_toggle
 id peekHeight
 id percent
 id pin
+id post
 id progress_circular
 id progress_horizontal
 id radio
@@ -1647,6 +1651,7 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView3
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter

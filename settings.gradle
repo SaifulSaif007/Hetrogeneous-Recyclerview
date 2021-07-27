@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Different List in Recyclerview'
+rootProject.name='Different List Items'

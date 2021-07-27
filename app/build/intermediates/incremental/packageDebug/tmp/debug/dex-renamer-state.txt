@@ -1,4 +1,7 @@
-#Fri Jan 24 20:48:24 BDT 2020
-base.0=G\:\\Android Projects\\DifferentListinRecyclerview\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
+#Tue Jul 27 23:38:04 BDT 2021
+base.1=G\:\\Android Projects\\DifferentListinRecyclerview\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=G\:\\Android Projects\\DifferentListinRecyclerview\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+path.0=classes.dex

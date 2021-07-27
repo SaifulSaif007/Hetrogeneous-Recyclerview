@@ -6,8 +6,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="17"
-        android:targetSdkVersion="29" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
 
     <application
         android:allowBackup="true"
@@ -19,7 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.differentlistinrecyclerview.MainActivity" >
+        <activity android:name="com.saiful.differentlistinrecyclerview.view.ui.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
