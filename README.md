@@ -1,14 +1,17 @@
-# Hetrogeneous-Recyclerview
+# Recyclerview with hetrogeneous items
 
 Recyclerview with various view type items 
 
-Using two types of object for recycler
- 1) Noraml Post
- 2) Post with Image
+Using two types of object for recyclerview -
+1) Normal Post
+2) Post with Image
 
-* Used Static DataStore for generating the data
 
-* Handled item click event
+---
+
+  * Used Static DataStore for generating the data
+  * Handled item click event
+
 
 # Screen Shot
 
